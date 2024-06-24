@@ -1,0 +1,7 @@
+## Dependencies
+
+- pandas
+- statsmodels
+- numpy
+- matplotlib
+- sklearn
